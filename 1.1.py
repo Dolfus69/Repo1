@@ -1,1 +1,1 @@
-print ("sut min dillermand")
+print ("skibidi")
