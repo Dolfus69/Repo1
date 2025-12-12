@@ -1,1 +1,1 @@
-print ("skibidi")
+print ("skibidi.")
